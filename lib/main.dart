@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instagram_clone/screens/login_page/login_page_page.dart';
-import 'package:instagram_clone/screens/switch_account_scrren.dart';
+import 'package:instagram_clone/screens/home_page_screen/home_page_screen_page.dart';
 
 void main() {
   runApp(Application());
@@ -32,7 +31,7 @@ class Application extends StatelessWidget {
                     borderRadius: BorderRadius.circular(15))),
           )),
       debugShowCheckedModeBanner: false,
-      home: LoginPagePage(),
+      home: HomePageScreenPage(),
     );
   }
 }
