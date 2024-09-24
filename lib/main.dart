@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:instagram_clone/screens/home_page_screen/home_page_screen_page.dart';
+import 'package:instagram_clone/screens/serch_screen/serch_screen.dart';
 
 void main() {
   runApp(Application());
@@ -31,7 +31,7 @@ class Application extends StatelessWidget {
                     borderRadius: BorderRadius.circular(15))),
           )),
       debugShowCheckedModeBanner: false,
-      home: HomePageScreenPage(),
+      home: SearchScreen(),
     );
   }
 }

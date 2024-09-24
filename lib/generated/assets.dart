@@ -3,17 +3,12 @@ class Assets {
   Assets._();
 
   static const String imagesIconActiveHome = 'images/icon_active_home.png';
-  static const String imagesIconActivityNavigation =
-      'images/icon_activity_navigation.png';
-  static const String imagesIconActivityNavigationActive =
-      'images/icon_activity_navigation_active.png';
-  static const String imagesIconAddNavigation =
-      'images/icon_add_navigation.png';
-  static const String imagesIconAddNavigationActive =
-      'images/icon_add_navigation_active.png';
+  static const String imagesIconActivityNavigation = 'images/icon_activity_navigation.png';
+  static const String imagesIconActivityNavigationActive = 'images/icon_activity_navigation_active.png';
+  static const String imagesIconAddNavigation = 'images/icon_add_navigation.png';
+  static const String imagesIconAddNavigationActive = 'images/icon_add_navigation_active.png';
   static const String imagesIconArrowDown = 'images/icon_arrow_down.png';
-  static const String imagesIconArrowRightBox =
-      'images/icon_arrow_right_box.png';
+  static const String imagesIconArrowRightBox = 'images/icon_arrow_right_box.png';
   static const String imagesIconComments = 'images/icon_comments.png';
   static const String imagesIconDirect = 'images/icon_direct.png';
   static const String imagesIconHart = 'images/icon_hart.png';
@@ -24,19 +19,20 @@ class Assets {
   static const String imagesIconSave = 'images/icon_save.png';
   static const String imagesIconScan = 'images/icon_scan.png';
   static const String imagesIconSearch = 'images/icon_search.png';
-  static const String imagesIconSearchNavigation =
-      'images/icon_search_navigation.png';
-  static const String imagesIconSearchNavigationActive =
-      'images/icon_search_navigation_active.png';
+  static const String imagesIconSearchNavigation = 'images/icon_search_navigation.png';
+  static const String imagesIconSearchNavigationActive = 'images/icon_search_navigation_active.png';
   static const String imagesIconShare = 'images/icon_share.png';
-  static const String imagesIconShareBottomsheet =
-      'images/icon_share_bottomsheet.png';
+  static const String imagesIconShareBottomsheet = 'images/icon_share_bottomsheet.png';
   static const String imagesIconTabBookmark = 'images/icon_tab_bookmark.png';
   static const String imagesIconTabPosts = 'images/icon_tab_posts.png';
   static const String imagesIconVideo = 'images/icon_video.png';
   static const String imagesImages = 'images/images.jpg';
   static const String imagesItem0 = 'images/item0.png';
   static const String imagesItem1 = 'images/item1.png';
+  static const String imagesItem10 = 'images/item10.png';
+  static const String imagesItem11 = 'images/item11.png';
+  static const String imagesItem12 = 'images/item12.png';
+  static const String imagesItem13 = 'images/item13.png';
   static const String imagesItem2 = 'images/item2.png';
   static const String imagesItem3 = 'images/item3.png';
   static const String imagesItem4 = 'images/item4.png';
@@ -47,12 +43,13 @@ class Assets {
   static const String imagesItem9 = 'images/item9.png';
   static const String imagesLogoSplash = 'images/logo_splash.png';
   static const String imagesMe = 'images/me.jpg';
+  static const String imagesMe.1 = 'images/me.1.jpg';
   static const String imagesMood = 'images/mood.png';
   static const String imagesMoodingerLogo = 'images/moodinger_logo.png';
   static const String imagesPattern1 = 'images/pattern1.png';
   static const String imagesPostCover = 'images/post_cover.png';
   static const String imagesProfile = 'images/profile.png';
   static const String imagesRocket = 'images/rocket.png';
-  static const String imagesSwitchAccountBackground =
-      'images/switch_account_background.png';
+  static const String imagesSwitchAccountBackground = 'images/switch_account_background.png';
+
 }
